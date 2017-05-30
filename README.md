@@ -124,3 +124,11 @@ https://blackrockdigital.github.io/startbootstrap-new-age/
 https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-directions?hl=es-419
 
 + Fase 3. Maquetación 
+
+G.	Comunicación al ciudadano. 
+
++ Fase 1. Análisis de la propuesta. Público y potenciales usuarios. Recursos y socios.
+
+Herramienta: Método Canvas.
+
++ Fase 2. Difusión.
