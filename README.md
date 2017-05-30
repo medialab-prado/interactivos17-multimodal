@@ -78,7 +78,7 @@ Herramienta para la creación de imagen: https://cacoo.com/lang/es/home
 # Recursos: 
 ### Repositorios del proyecto:
 + [Link a las fotos](https://www.flickr.com/ciudadmultimodal)
-+ [Link a las videos](https://www.youtube.com/channel/UCf1gTTZlFirMkvugoj3PM3A)
++ [Link a las videos](https://www.youtube.com/channel/UCf1gTTZlFirMkvugoj3PM3A/videos)
 + [Link a los planos](http://www.atopedecarto.com)
 + [Link al blog](http://www.mibloglopeta.com)
 ### Bibliografía, otros repositorios y links: 
