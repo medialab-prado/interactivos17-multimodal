@@ -27,7 +27,7 @@ La multitud de desplazamientos que realizamos en la ciudad requieren de una mín
 ### Implementación
 + Crear una responsive web que conecta al usuario con una nueva forma de conocer la ciudad. 
 
-+ A través de un dispositivo móvil, el usuario conecta con una web para que una vez detectada su ubicación. Con un funcionamiento similar a googl maps, la web traza un recorrido que a través de archivos de audio, sonido e imagen conecta al usuario con acontecimiento que permiten incentivar el recorrido de la ciudad, viajes urbanos.
++ A través de un dispositivo móvil que conecta con un código QR se remite al usuario a una web en la que una vez fijado un punto de inicio (ubicación) y un punto de destino, traza un recorrido a través de archivos de audio, sonido e imagen que conectan al usuario con acontecimientos que permiten convertir el desplazamiento en la ciudad en viajes urbanos.
 
 + En una segunda fase se interactuará con el usuario permitiendo que este añada elementos de interés a los recorridos para compartirlos con la comunidad de usuarios, pueda opinar sobre los mejores puntos (acontecimientos) y pueda discriminar entre unos puntos u otros para crear su propio recorrido.
 
