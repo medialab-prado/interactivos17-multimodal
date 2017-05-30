@@ -16,7 +16,7 @@ Herramientas para geolocalización de puntos: Aplicación Open GPS Tracker. Reco
 
 + Fase 2. Mapeado. Identificación de puntos y recogida de datos. 
 
-Herramientas para la geolocalización de puntos: GPS Data. Recogida de archivos de audio, video e imagen con móvil Android.
+Herramientas para la geolocalización de puntos: Aplicación GPS Data. Recogida de archivos de audio, video e imagen con móvil Android.
 
 + Fase 3. Mapeado definitivo.
 
@@ -35,6 +35,21 @@ Dirección del plano de localización de puntos “Multimodal”: https://www.go
 La creación de un mapa superpuesto a google maps a través del menú de google maps y siguiendo la secuencia: Tus Sitios, Mapas, Crear mapa. Nos da la posibilidad de añadir puntos georeferenciados, identificarlos, añadirle descripciones y generar recorridos que tienen en cuenta nuestra ubicación y nuestro destino. 
 Se descartan herramientas como www.mapbox.com y mapstyle.withgoogle.com por considerar google maps como una plataforma de trabajo más fuerte y cercana al usuario. Ofrece la posibilidad de implementación de capas lo que permite el crecimiento futuro previsto para el proyecto y ha supuesto un ahorro en importante en el tiempo dedicado a la programación a la vez que acerca la herramienta al usuario por ser un formato con una interfaz conocida.
 
++	Fase 2. Enlace y asociación de archivos a lugares mapeados.
+Crear cuenta de filkr y álbumes de recorridos.
+
+D.	Intervención en la ciudad para el acercamiento al usuario.
+
++ Fase 1.  Diseño y creación de código QR.
+Herramienta para la generación del código: http://es.qr-code-generator.com/
+
+E.	Definición del funcionamiento web. 
+
++ Fase 1. Toma de contacto. Prueba de concepto. Mockups.
+Herramienta para la creación de imagen: https://cacoo.com/lang/es/home
+
++ Fase 2. Diseño del diagrama de flujo definitivo.
+
 # Promotores y colaboradores: 
 ### Equipos: 
 + Rafael Hernández López
@@ -42,8 +57,8 @@ Se descartan herramientas como www.mapbox.com y mapstyle.withgoogle.com por cons
 ### Colaboradores
 + Cristina Jiménez 
 + Mara Sánchez 
-+ Miriam García
 + Elena Turrado
++ Miriam García
 + Sebastián
 + Montserrat Nuñez
 + Ivana Mondelo
@@ -62,8 +77,8 @@ Se descartan herramientas como www.mapbox.com y mapstyle.withgoogle.com por cons
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
 # Recursos: 
 ### Repositorios del proyecto:
-+ [Link a las fotos](http://www.flickrPorEjemplo.com)
-+ [Link a las videos](http://www.lasalsaeslomas.com)
++ [Link a las fotos](https://www.flickr.com/ciudadmultimodal)
++ [Link a las videos](https://www.youtube.com/channel/UCf1gTTZlFirMkvugoj3PM3A)
 + [Link a los planos](http://www.atopedecarto.com)
 + [Link al blog](http://www.mibloglopeta.com)
 ### Bibliografía, otros repositorios y links: 
