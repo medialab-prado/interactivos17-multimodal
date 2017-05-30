@@ -1,3 +1,23 @@
+# Índice
+- [interactivos17-multimodal] (# interactivos17-multimodal)
+- [Descripción del proyecto] (# Descripción-del-proyecto)
+     - [Idea] (# idea)
+     - [Lecturas Recomendadas] (# Lecturas Recomendadas)-
+     - [Implementación] (# implementation)
+- [Equipo:] (# equipo :)
+     - [Promotores] (# promotores)
+     - [Colaboradores] (# Colaboradores)
+- [Instructions] (# INSTRUCCIONES)
+     - [Instructions de Montaje y desmontaje] (# INSTRUCCIONES-de-Montaje-y-desmontaje)
+     - [Instructions de Funcionamiento] (# INSTRUCCIONES-de-Funcionamiento)
+     - [Instructions de mantenimiento] (# INSTRUCCIONES-de-mantenimiento)
+- [Recursos:] (# Recursos :)
+     - [Repositorios del Proyecto:] (# repositorios-del-proyecto :)
+     - [Bibliografía, enlaces Other repositories Y:] (# bibliografía, -otros-repositorios-y-enlaces :)
+- [Diario del Proceso] (# diario-del-Proceso)
+     - [Semana 1] (# semana-1)
+     - [Semana 2] (# semana-2)
+     - [Semana 3] (# semana-3)
 # interactivos17-multimodal
 # Descripción del proyecto
 [![ProjectImage](https://c1.staticflickr.com/5/4275/34599094260_3135470244.jpg)](http://projectWeb.com/)
@@ -87,7 +107,11 @@ Herramienta: Método Canvas.
 + Perrine 
 # Instrucciones
 ### Instrucciones de montaje y desmontaje
-+ Qué material se necesita
++ Pantalla VGA para exposición de viajes urbanos en ciclo cerrado.
++ Tablet con aplicación redirigida a la web soporte del proyecto.
++ Cuatro fotos: difusión del QR en puntos intermodales, acción de captación del usuario (peatón, patín y bicicleta), realización del viaje y vuelta a la vida cotidiana.
++ Libro A5 de idiología del proyecto.
+
 + Cómo se ensambla todo
 + En qué puntos hay que tener cuidado
 ### Instrucciones de funcionamiento
@@ -117,9 +141,9 @@ Herramienta: Método Canvas.
 •	Capítulo 3. Trabajo de campo. 
 •	Capítulo 4. Ideación de prototipo.
 •	Capítulo 5. Presentación de avances en MediaLab.
-•	Capítulo 6.  Desarrollo del prototipo.
+•	Capítulo 6. Desarrollo del prototipo.
 ### Semana 3
-•	Capítulo 7. Difusión pública.
+•	Capítulo 7. Difusión.
 •	Capítulo 8. Interacción ciudadana.
 •	Capítulo 9. Documentación.
 •	Capítulo10. Exposición.
