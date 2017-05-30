@@ -1,8 +1,10 @@
 # Índice
+
+[Tabla de contenidos generados usando esta aplicación] (https://tableofcontents.herokuapp.com)
+
 - [interactivos17-multimodal] (# interactivos17-multimodal)
 - [Descripción del proyecto] (# Descripción-del-proyecto)
      - [Idea] (# idea)
-     - [Lecturas Recomendadas] (# Lecturas Recomendadas)-
      - [Implementación] (# implementation)
 - [Equipo:] (# equipo :)
      - [Promotores] (# promotores)
@@ -15,9 +17,8 @@
      - [Repositorios del Proyecto:] (# repositorios-del-proyecto :)
      - [Bibliografía, enlaces Other repositories Y:] (# bibliografía, -otros-repositorios-y-enlaces :)
 - [Diario del Proceso] (# diario-del-Proceso)
-     - [Semana 1] (# semana-1)
-     - [Semana 2] (# semana-2)
-     - [Semana 3] (# semana-3)
+
+
 # interactivos17-multimodal
 # Descripción del proyecto
 [![ProjectImage](https://c1.staticflickr.com/5/4275/34599094260_3135470244.jpg)](http://projectWeb.com/)
