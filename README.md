@@ -45,13 +45,35 @@ Herramienta para la generación del código: http://es.qr-code-generator.com/
 
 E.	Definición del funcionamiento web. 
 
-+ Fase 1. Toma de contacto. Prueba de concepto. Mockups.
++ Fase 1. Prueba de concepto. Mockups.
 Herramienta para la creación de imagen: https://cacoo.com/lang/es/home
 
 + Fase 2. Diseño del diagrama de flujo definitivo.
 
-# Promotores y colaboradores: 
-### Equipos: 
+F.	Responsive web.
+
++ Fase 1. Diseño de logo.
++	Fase 2. Diseño web.
+
+Enlaces a plantillas web: 
+
+https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/#
+
+https://blackrockdigital.github.io/startbootstrap-new-age/
+
+https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-directions?hl=es-419
+
++ Fase 3. Maquetación 
+
+G.	Comunicación al ciudadano. 
+
++	Fase 1. Análisis de la propuesta. Público y potenciales usuarios. Recursos y socios.
+Herramienta: Método Canvas.
+
++ Fase 2. Campaña en los medios.
+
+# Equipo: 
+### Promotores 
 + Rafael Hernández López
 + Miguel Ángel Díaz Camacho
 ### Colaboradores
@@ -82,13 +104,24 @@ Herramienta para la creación de imagen: https://cacoo.com/lang/es/home
 + [Link a los planos](http://www.atopedecarto.com)
 + [Link al blog](http://www.mibloglopeta.com)
 ### Bibliografía, otros repositorios y links: 
-+ http://openframeworks.cc/
-+ https://libcinder.org/
++ De la ligereza. Hacia una civilización de lo ligero. Autor: Gilles Lipovetsky. Ed. Anagrama.
++ Como hacer un paseo de jane. Guía didáctica. La aventura de aprender
++ El cuerpo y la ciudad: la sostenibilidad urbana desde la percepción de nuestros cuerpos. Autor: Nagore Urrutia del Campo. Universidad Politécnica de Madrid.
++ La ciudad paseable. Autor: Julio Pozueta (Dir.), Francisco José Lamíquiz y Mateus Porto.
 # Diario del proceso
 ### Semana 1
-Vermut de grifo 
+•	Capítulo 0. Formación de grupo.
+•	Capítulo 1. Marco teórico.
+•	Capítulo 2. Desarrollo de concepto. 
 ### Semana 2
-Bocata de calamares con pacharán de Zarautz
+•	Capítulo 3. Trabajo de campo. 
+•	Capítulo 4. Ideación de prototipo.
+•	Capítulo 5. Presentación de avances en MediaLab.
+•	Capítulo 6.  Desarrollo del prototipo.
 ### Semana 3
-Rave de compilación
+•	Capítulo 7. Difusión pública.
+•	Capítulo 8. Interacción ciudadana.
+•	Capítulo 9. Documentación.
+•	Capítulo10. Exposición.
+
 
