@@ -27,9 +27,9 @@ La multitud de desplazamientos que realizamos en la ciudad requieren de una mín
 ### Implementación
 + Crear una responsive web que conecta al usuario con una nueva forma de conocer la ciudad. 
 
-+ A través de un dispositivo móvil, el usuario conecta con una web para que una vez detectada la ubicación del mismo y con un funcionamiento similar a googl maps, se pueda trazar un recorrido y que a través de archivos de audio, sonido e imagen conectar al usuario con acontecimiento que permiten incentivar el recorrido de la ciudad, los viajes urbanos.
++ A través de un dispositivo móvil, el usuario conecta con una web para que una vez detectada su ubicación. Con un funcionamiento similar a googl maps, la web traza un recorrido que a través de archivos de audio, sonido e imagen conecta al usuario con acontecimiento que permiten incentivar el recorrido de la ciudad, viajes urbanos.
 
-+ En una segunda fase
++ En una segunda fase se interactuará con el usuario permitiendo que este añada elementos de interés a los recorridos para compartirlos con la comunidad de usuarios, pueda opinar sobre los mejores puntos (acontecimientos) y pueda discriminar entre unos puntos u otros para crear su propio recorrido.
 
 # Equipo: 
 ### Promotores 
@@ -43,7 +43,7 @@ La multitud de desplazamientos que realizamos en la ciudad requieren de una mín
 + Sebastián Balanta
 + Montserrat Nuñez
 + Ivana Mondelo
-+ Perrine 
++ Perrine Deschellette
 # Instrucciones
 ### Instrucciones de montaje y desmontaje
 + Pantalla VGA en el centro del expositor y con altavoz para exposición de viajes urbanos en ciclo cerrado.
@@ -130,10 +130,18 @@ https://developers.google.com/maps/documentation/javascript/examples/places-auto
 
 + Fase 3. Maquetación 
 
-G.	Comunicación al ciudadano. 
+G.	Comunicación. 
 
 + Fase 1. Análisis de la propuesta. Público y potenciales usuarios. Recursos y socios.
 
 Herramienta: Método Canvas.
 
-+ Fase 2. Difusión.
++ Fase 2. Difusión propuesta.
+
+Redes sociales. Usuarios en Facebook (facebook.com/multimodalciudad) e Instagram (https://www.instagram.com/ciudadmultimodal) para generar comunidad y un espacio común donde compartir materiales con las personas. 
+
+Postales de información básica del proyecto, el código QR que direcciona a la plataforma web y datos de contacto del mismo (link y redes sociales).  
+
+Stickers. Material que contiene el trigger para iniciar la experiencia de viaje (ejemplo: código QR).
+
+Banners digitales para sumar en instituciones académicas que brinden un espacio a la difusión del proyecto.
