@@ -23,12 +23,52 @@
 [![ProjectImage](https://c1.staticflickr.com/5/4275/34599094260_3135470244.jpg)](http://projectWeb.com/)
 ### Idea
 La multitud de desplazamientos que realizamos en la ciudad requieren de una mínima planificación. Los trayectos cotidianos (rutinas), así como los menos habituales, pueden ser reinterpretados en una suerte de viajes urbanos (acontecimientos) en sí mismos. La geo-localización por parte de los usuarios de ruta, horario y descubrimiento propuesto (personal, cultural, medioambiental, histórico, sensorial, etc.) favorece la movilidad ecológica y la combinación de distintos modos de transporte en la ciudad. El objetivo de MULTIMODAL es conectar mediante una aplicación (prototipo) a personas interesadas en compartir conversaciones y/o experiencias ciudadanas desde la cultura colaborativa y el software social.
-### Lecturas recomendadas
+
+### Implementación
+
+
+# Equipo: 
+### Promotores 
++ Rafael Hernández López
++ Miguel Ángel Díaz Camacho
+### Colaboradores
++ Cristina Jiménez 
++ Mara Sánchez 
++ Elena Turrado
++ Miriam García
++ Sebastián
++ Montserrat Nuñez
++ Ivana Mondelo
++ Perrine 
+# Instrucciones
+### Instrucciones de montaje y desmontaje
++ Pantalla VGA para exposición de viajes urbanos en ciclo cerrado.
++ Tablet con aplicación redirigida a la web soporte del proyecto.
++ Cuatro fotos: difusión del QR en puntos intermodales, acción de captación del usuario (peatón, patín y bicicleta), realización del viaje y vuelta a la vida cotidiana.
++ Libro A5 de idiología del proyecto.
+
++ Cómo se ensambla todo
++ En qué puntos hay que tener cuidado
+### Instrucciones de funcionamiento
++ ¿Cómo se enciende? ¿Cómo se apaga?
++ ¿Qué hace exactamente? ¿Cómo interactuar con el dispositivo? (pensar que la gente que lo ve no ha estado en el taller). 
+### Instrucciones de mantenimiento
++ ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuanto?
++ ¿Utiliza materiales desechables? ¿tintas? ¿papel?
++ Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
+# Recursos: 
+### Repositorios del proyecto:
++ [Link a las fotos](https://www.flickr.com/ciudadmultimodal)
++ [Link a las videos](https://www.youtube.com/channel/UCf1gTTZlFirMkvugoj3PM3A/videos)
++ [Link a los planos](http://www.atopedecarto.com)
++ [Link al blog](http://www.mibloglopeta.com)
+### Bibliografía, otros repositorios y links: 
 + De la ligereza. Hacia una civilización de lo ligero. Autor: Gilles Lipovetsky. Ed. Anagrama.
 + Como hacer un paseo de jane. Guía didáctica. La aventura de aprender
 + El cuerpo y la ciudad: la sostenibilidad urbana desde la percepción de nuestros cuerpos. Autor: Nagore Urrutia del Campo. Universidad Politécnica de Madrid.
 + La ciudad paseable. Autor: Julio Pozueta (Dir.), Francisco José Lamíquiz y Mateus Porto.
-### Implementación
+# Diario del proceso
+
 A.	Identificación de puntos intermodales y delimitación de zona multimodal. Análisis. 
 + Fase 1. Toma de contacto con el lugar. Prueba de concepto.
 
@@ -73,7 +113,7 @@ Herramienta para la creación de imagen: https://cacoo.com/lang/es/home
 F.	Responsive web.
 
 + Fase 1. Diseño de logo.
-+	Fase 2. Diseño web.
++ Fase 2. Diseño web.
 
 Enlaces a plantillas web: 
 
@@ -84,68 +124,3 @@ https://blackrockdigital.github.io/startbootstrap-new-age/
 https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-directions?hl=es-419
 
 + Fase 3. Maquetación 
-
-G.	Comunicación al ciudadano. 
-
-+	Fase 1. Análisis de la propuesta. Público y potenciales usuarios. Recursos y socios.
-Herramienta: Método Canvas.
-
-+ Fase 2. Campaña en los medios.
-
-# Equipo: 
-### Promotores 
-+ Rafael Hernández López
-+ Miguel Ángel Díaz Camacho
-### Colaboradores
-+ Cristina Jiménez 
-+ Mara Sánchez 
-+ Elena Turrado
-+ Miriam García
-+ Sebastián
-+ Montserrat Nuñez
-+ Ivana Mondelo
-+ Perrine 
-# Instrucciones
-### Instrucciones de montaje y desmontaje
-+ Pantalla VGA para exposición de viajes urbanos en ciclo cerrado.
-+ Tablet con aplicación redirigida a la web soporte del proyecto.
-+ Cuatro fotos: difusión del QR en puntos intermodales, acción de captación del usuario (peatón, patín y bicicleta), realización del viaje y vuelta a la vida cotidiana.
-+ Libro A5 de idiología del proyecto.
-
-+ Cómo se ensambla todo
-+ En qué puntos hay que tener cuidado
-### Instrucciones de funcionamiento
-+ ¿Cómo se enciende? ¿Cómo se apaga?
-+ ¿Qué hace exactamente? ¿Cómo interactuar con el dispositivo? (pensar que la gente que lo ve no ha estado en el taller). 
-### Instrucciones de mantenimiento
-+ ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuanto?
-+ ¿Utiliza materiales desechables? ¿tintas? ¿papel?
-+ Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
-# Recursos: 
-### Repositorios del proyecto:
-+ [Link a las fotos](https://www.flickr.com/ciudadmultimodal)
-+ [Link a las videos](https://www.youtube.com/channel/UCf1gTTZlFirMkvugoj3PM3A/videos)
-+ [Link a los planos](http://www.atopedecarto.com)
-+ [Link al blog](http://www.mibloglopeta.com)
-### Bibliografía, otros repositorios y links: 
-+ De la ligereza. Hacia una civilización de lo ligero. Autor: Gilles Lipovetsky. Ed. Anagrama.
-+ Como hacer un paseo de jane. Guía didáctica. La aventura de aprender
-+ El cuerpo y la ciudad: la sostenibilidad urbana desde la percepción de nuestros cuerpos. Autor: Nagore Urrutia del Campo. Universidad Politécnica de Madrid.
-+ La ciudad paseable. Autor: Julio Pozueta (Dir.), Francisco José Lamíquiz y Mateus Porto.
-# Diario del proceso
-### Semana 1
-•	Capítulo 0. Formación de grupo.
-•	Capítulo 1. Marco teórico.
-•	Capítulo 2. Desarrollo de concepto. 
-### Semana 2
-•	Capítulo 3. Trabajo de campo. 
-•	Capítulo 4. Ideación de prototipo.
-•	Capítulo 5. Presentación de avances en MediaLab.
-•	Capítulo 6. Desarrollo del prototipo.
-### Semana 3
-•	Capítulo 7. Difusión.
-•	Capítulo 8. Interacción ciudadana.
-•	Capítulo 9. Documentación.
-•	Capítulo10. Exposición.
-
-
