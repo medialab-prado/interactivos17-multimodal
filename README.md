@@ -48,7 +48,7 @@ La multitud de desplazamientos que realizamos en la ciudad requieren de una mín
 + Sobre la bandeja del expositor, tablet con aplicación redirigida a la web soporte del proyecto con auriculares para la audición individual. 
 + En la banda inferior del vertical del exositor (bajo la pantalla VGA), cuatro fotos tamaño A5 en papel fotográfico: difusión del QR en puntos intermodales, acción de captación del usuario (peatón, patín y bicicleta), realización del viaje y vuelta a la vida cotidiana.
 + En el centro de la bandeja del expositor, libro A5 de idiología del proyecto.
-+ A la izquierda de la bandeja de l expositor se sitúa cuaderno de bitácora del proceso del proyecto.
++ A la izquierda de la bandeja del expositor se sitúa cuaderno de bitácora del proceso del proyecto.
 + Los enchufes de corriente y conexiones necesarias a red del ordenador a la pantalla.
 + Para el desmontaje se seguirán las pautas habituales con equipos electrónicos.
 ### Instrucciones de funcionamiento
