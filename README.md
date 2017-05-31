@@ -142,3 +142,5 @@ Postales de información básica del proyecto, el código QR que direcciona a la
 Stickers. Material que contiene el trigger para iniciar la experiencia de viaje (ejemplo: código QR).
 
 Banners digitales para sumar en instituciones académicas que brinden un espacio a la difusión del proyecto.
+
+# Licencia
