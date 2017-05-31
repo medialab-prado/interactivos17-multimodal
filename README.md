@@ -13,7 +13,7 @@ Readme del proyecto **Multimodal**
 - [Recursos](#recursos)
      - [Repositorios del proyecto:](#repositorios-del-proyecto)
      - [Bibliografía, otros repositorios y links](#bibliografía,-otros-repositorios-y-links)
-- [Diario del proceso (ejemplo)](#diario-del-proceso-(ejemplo))
+- [Diario del proceso](#diario-del-proceso)
 - [Licencia](#licencia)     
 
 # Descripción del proyecto
