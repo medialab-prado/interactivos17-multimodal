@@ -145,4 +145,5 @@ Banners digitales para sumar en instituciones académicas que brinden un espacio
 
 # Licencia
 CC BY-SA 4.0
-AGPL v3.0
+
++ Código AGPL v3.0
