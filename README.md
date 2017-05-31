@@ -12,7 +12,7 @@ Readme del proyecto **Multimodal**
      - [Instrucciones de mantenimiento](#instrucciones-de-mantenimiento)
 - [Recursos](#recursos)
      - [Repositorios del proyecto:](#repositorios-del-proyecto)
-     - [Bibliografía, otros repositorios y links](#bibliografía,-otros-repositorios-y-links)
+     - [Bibliografía](#bibliografía)
 - [Diario del proceso](#diario-del-proceso)
 - [Licencia](#licencia)     
 
