@@ -144,3 +144,5 @@ Stickers. Material que contiene el trigger para iniciar la experiencia de viaje 
 Banners digitales para sumar en instituciones académicas que brinden un espacio a la difusión del proyecto.
 
 # Licencia
+CC BY-SA 4.0
+AGPL v3.0
