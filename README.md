@@ -1,8 +1,5 @@
+Readme del proyecto **Multimodal**
 # Índice
-
-[Tabla de contenidos generados usando esta aplicación] (https://tableofcontents.herokuapp.com)
-
-
 - [Descripción del proyecto](#descripción-del-proyecto)
      - [Idea](#idea)
      - [Implementación](#implementación)
@@ -17,30 +14,8 @@
      - [Repositorios del proyecto:](#repositorios-del-proyecto)
      - [Bibliografía, otros repositorios y links](#bibliografía,-otros-repositorios-y-links)
 - [Diario del proceso (ejemplo)](#diario-del-proceso-(ejemplo))
-     - [Semana 1](#semana-1)
-     - [Semana 2](#semana-2)
-     - [Semana 3](#semana-3)
 - [Licencia](#licencia)     
 
-
-- [interactivos17-multimodal] (# interactivos17-multimodal)
-- [Descripción del proyecto] (# Descripción-del-proyecto)
-     - [Idea] (# idea)
-     - [Implementación] (# implementation)
-- [Equipo:] (# equipo :)
-     - [Promotores] (# promotores)
-     - [Colaboradores] (# Colaboradores)
-- [Instructions] (# INSTRUCCIONES)
-     - [Instructions de Montaje y desmontaje] (# INSTRUCCIONES-de-Montaje-y-desmontaje)
-     - [Instructions de Funcionamiento] (# INSTRUCCIONES-de-Funcionamiento)
-     - [Instructions de mantenimiento] (# INSTRUCCIONES-de-mantenimiento)
-- [Recursos:] (# Recursos :)
-     - [Repositorios del Proyecto:] (# repositorios-del-proyecto :)
-     - [Bibliografía, enlaces Other repositories Y:] (# bibliografía, -otros-repositorios-y-enlaces :)
-- [Diario del Proceso] (# diario-del-Proceso)
-
-
-# interactivos17-multimodal
 # Descripción del proyecto
 [![ProjectImage](https://c1.staticflickr.com/5/4275/34599094260_3135470244.jpg)](http://projectWeb.com/)
 ### Idea
