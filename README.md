@@ -51,15 +51,30 @@ La multitud de desplazamientos que realizamos en la ciudad requieren de una mín
 + A la izquierda de la bandeja del expositor se sitúa cuaderno de bitácora del proceso del proyecto.
 + Los enchufes de corriente y conexiones necesarias a red del ordenador a la pantalla.
 + Para el desmontaje se seguirán las pautas habituales con equipos electrónicos.
+
 ### Instrucciones de funcionamiento
++ Abres el programa de la table que escanea QR
++ Escanear QR
++ Ir a la web, y abrir un recorido.
++ apretar el botn de FLIPA
++ Te redirecciona a google Maps, 
++ Ir descubriendo los puntos de interes, y viendo el contenido de cada punto, etc. 
++ Para ver el contenido de los puntos de interes, abir la leyenda que aparece en la parte de abajo. Navegar en ellla y volver al mapa. 
++ Ver vídeo (en construcció por Rafa) de como navegar en el mapa de google y disfrutar de los recorridos o puntos de interes propuestos. 
++ Te redirecciona a google Maps,  Mapa y entonces, ir descubriendo los puntos de interes, y viendo el contenido de cada punto, etc. 
 + En el ordenador que soporta la pantalla existirá un archivo XXXX para visulizar el ciclo continuo con los vídeos de los viajes urbanos que se activará cada dia de la exposición y funcionará ininterumpidamente a lo largo de la jornada. 
 + En la tablet, el acceso a la web se podrá realizar a partir del QR puesto en el expositor y seguir las instrucciones de la aplicación. 
-+ Todos los equipos permanecen permanentemente encendidos.
+
+--Libros
 + El libro con formato A5 y el cuaderno de bitácora quedarán sujetos al expositor con sujeción segura.
-+ El gráfico de acceso a la tabñet (patrón de desbloqueo) es "M".
+
 ### Instrucciones de mantenimiento
-+ Cuando la tablet se encuentre con un 20% restante de batería se recargará con conexión a la red, pudiendo estar permanentemente enchufada.
-+ En caso de colapso, primero comprobar que todos los dispositivos cuentan con conexiones a la red o baterías suficientes. En segundo lugar, si el archivo de vídeo dejase de funcionar, se podrá recurrir a la copia de seguridad alojada en el mismo ordenador. Si el acceso al código QR desde la tablet no fuera posible, se cambiará el adhesivo existente por uno nuevo que dejaremos al encargado d ela exosición.
++ Tener en cuenta dejar el GPS conectado. Pero algo pasa que no se ve el punto de GPS en el mapa de la web. 
++ Todos los equipos permanecen permanentemente encendidos.
++ Estar permanentemente enchufada.
++ En caso de colapso, primero comprobar que todos los dispositivos cuentan con conexiones a la red o baterías suficientes. En segundo lugar, si el archivo de vídeo dejase de funcionar, se podrá recurrir a la copia de seguridad alojada en el mismo ordenador. ¡
++ Acceso al código QR desde la tablet no fuera posible, ver que otro programa de android como "Quick Scan". 
+
 # Recursos: 
 ### Repositorios del proyecto:
 + [Link a las fotos](https://www.flickr.com/ciudadmultimodal)
