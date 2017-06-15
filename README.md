@@ -65,13 +65,10 @@ La multitud de desplazamientos que realizamos en la ciudad requieren de una mín
 + NAVEGAR POR EL PROTOTIPO
 + Escanear el código Qr de calquiera de las formas anteriormente mencionadas (tablet o Smartphone).
 + Pinchar sobre el enlace web
-+ Apretar el botón de FLIPA y el usuario será redireccionada a un mapa donde podrá consultar puntos marcados como puntos pertenecientes para experimentar recorridos interesantes desde el punto de vista de las sensaciones y los descansos.
++ Apretar el botón de FLIPA y el usuario será redireccionadO a un mapa donde podrá consultar puntos marcados como puntos pertenecientes para experimentar recorridos interesantes desde el punto de vista de las sensaciones y los descansos.
 + El contenido de los puntos se puede consulta pulsando sobre ellos. Se despliega una leyenda que muestra los contenidos asociados y pulsando sobre la foto asociada a dicha leyenda se abrirán todos los contenidos disponibles (fotografías, vídeos o audios) para su consulta.
 + Una vez explorado el punto, volver al mapa para seguir consultando puntos de la misma manera o ir a google maps pulsando el icono de flecha encerrada en un rombo que hay en la parte derecha de la banda roja de la leyenda.
-+ Te redirecciona a google Maps donde pedes seguir consultando contenidos además de consultar los recorridos trazados desde el punto donde se encuentra el usuario hasta el punto seleccionado así como el tiempo estimado de llegada al mismo.
-
-
-+ En el ordenador que soporta la pantalla existirá un archivo XXXX para visulizar el ciclo continuo con los vídeos de los viajes urbanos que se activará cada dia de la exposición y funcionará ininterumpidamente a lo largo de la jornada. 
++ Te redirecciona a google Maps donde pUedes seguir consultando contenidos además de consultar los recorridos trazados desde el punto donde se encuentra el usuario hasta el punto seleccionado así como el tiempo estimado de llegada al mismo.
 
 
 ### Instrucciones de mantenimiento
@@ -80,6 +77,7 @@ La multitud de desplazamientos que realizamos en la ciudad requieren de una mín
 + Si el usuario accede desde su Smartphone recomendarle activar la localización GPS para que tenga acceso al trazado de recorrido a través de google maps.
 + Todos los equipos permanecerán permanentemente encendidos.
 + En caso de colapso, primero comprobar que todos los dispositivos cuentan con conexiones a la red eléctrica. En cuanto al archivo de vídeo, si este dejara de reproducirse, recurrir a la copia de seguridad alojada en el mismo ordenador.
++ En el ordenador que soporta la pantalla existirá un archivo XXXX para visulizar el ciclo continuo con los vídeos de los viajes urbanos que se activará cada dia de la exposición y funcionará ininterumpidamente a lo largo de la jornada.
 + Acceso al código QR desde la tablet no fuera posible, se recomienda la descarga de una otras aplicaciones de lectura de códigos como por ejemplo QR Code Reader, Rápido QRCode Reader/Barcode +Qr Code Reader, Lector de Código QR o Escáner de código de barras Qr. Una vez descargada e instalada, el usuario operará desde dicha aplicación enfocando el código Qr del prototipo ciudad multimodal y procederá como se ha explicado anteriormente.
 
 # Recursos: 
