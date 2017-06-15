@@ -70,6 +70,11 @@ La multitud de desplazamientos que realizamos en la ciudad requieren de una mín
 + Una vez explorado el punto, volver al mapa para seguir consultando puntos de la misma manera o ir a google maps pulsando el icono de flecha encerrada en un rombo que hay en la parte derecha de la banda roja de la leyenda.
 + Te redirecciona a google Maps donde pUedes seguir consultando contenidos además de consultar los recorridos trazados desde el punto donde se encuentra el usuario hasta el punto seleccionado así como el tiempo estimado de llegada al mismo.
 
++ INFORMACIÓN SOBRE EL PROYECTO.
++ Más allá del mapa de puntos seleccionados para hacer posible los viajes urbanos, animanos a conocer el resto de la web.
++ Desplazandote como con el scroll del ratón podrás conocer el concepto del proyecto, la siguiente fase de implementación para hacer posible la colaboración con la comunidad de usuarios creada en torno a los viajes urbanos.
++ Podrás conocer a nuestro equipo y tener acceso a nuestra página de flickr, nuestro canal de youtube y nuestra página de facebook.
+
 
 ### Instrucciones de mantenimiento
 
