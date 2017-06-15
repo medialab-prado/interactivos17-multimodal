@@ -56,13 +56,13 @@ La multitud de desplazamientos que realizamos en la ciudad requieren de una mín
 
 ### Instrucciones de funcionamiento
 
-+ Acceso al prototipo web
++ ACCESO AL PROTOTIPO WEB
 + A. Mediante una tablet dispuesta en la exposición, a través de la aplicación para la lectura del código Qr que se encuentra en la pantalla principal y enfocando el código Qr. Da acceso a la web ciudad multimodal.
 + B. A través del propio Smartphone del usuario, enfocando el código Qr con su aplicación cámara de fotos. Tras unos segundos de espera, la cámara debe reconocer el código e indicar al usuario en su pantalla la opción “ver detalles” o similar lo que le dará acceso al enlace web del prototipo, ciudad multimodal. 
 + Si la cámara del Smartphone no reconoce le código Qr se recomienda la descarga de una aplicación de lectura de código Qr (indicadas en las instrucciones de mantenimiento)
 + C. Si la tablet y el Smartphone dan problemas de acceso, se podrá conocer el prototipo web diseñado desde el ordenador dispuesto para ello en el expositor. Debido a no poder geolocalizarse no se podrá comprobar el trazado de recorridos o los tiempos necesarios para realizar los recorridos a los puntos propuestos, pero podrá disfrutar de todos los contenidos asociados a los mismos.
 
-+ Navegar por el prototipo
++ NAVEGAR POR EL PROTOTIPO
 + Escanear el código Qr de calquiera de las formas anteriormente mencionadas (tablet o Smartphone).
 + Pinchar sobre el enlace web
 + Apretar el botón de FLIPA y el usuario será redireccionada a un mapa donde podrá consultar puntos marcados como puntos pertenecientes para experimentar recorridos interesantes desde el punto de vista de las sensaciones y los descansos.
